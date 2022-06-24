@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test name="Verify Go Highlevel Test Cases">
+		<classes>
+			<class name="com.gohighlevel.testcases">
+				<methods>
+					<include name="verifyAddNewCalender"></include>
+					<include name="verifyBookAppointment"></include>
+					<exclude name="verifyAddAppointmentToGoogleCalender"></exclude>
+					<include name="verifyOptimizedForAvailability"></include>
+				</methods>
+			</class>
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

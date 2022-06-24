@@ -1,0 +1,38 @@
+2022-06-24 03:34:00 INFO  testcases.CalenderPageTest:38 - *********** Starting test case execution : Verify wheather user is able to add a new calender **********
+2022-06-24 03:34:01 INFO  pageObjects.LoginPage:64 - Entered Email : battecharudatt@gmail.com
+2022-06-24 03:34:01 INFO  pageObjects.LoginPage:68 - Entered Password : Test@123
+2022-06-24 03:34:01 INFO  pageObjects.LoginPage:75 - Clicked on the Sign in button
+2022-06-24 03:34:07 INFO  pageObjects.CalenderPage:140 - Clicked on the calenders button
+2022-06-24 03:34:07 INFO  pageObjects.CalenderPage:144 - Clicked on the calenders settings button
+2022-06-24 03:34:10 INFO  pageObjects.CalenderPage:157 - Clicked on add button....
+2022-06-24 03:34:18 INFO  pageObjects.CalenderPage:178 - Clicked on save and continue button
+2022-06-24 03:34:20 INFO  pageObjects.CalenderPage:184 - Clicked on save and continue button
+2022-06-24 03:34:24 INFO  pageObjects.CalenderPage:192 - Clicked on complete button
+2022-06-24 03:34:24 INFO  pageObjects.CalenderPage:195 - Calender is added successfully
+2022-06-24 03:34:26 INFO  helperClass.CommonActions:290 - PASS :User is able to add the calendar
+2022-06-24 03:34:30 INFO  testcases.CalenderPageTest:50 - *********** Starting test case execution : Verify wheather user is able to book a new appointment **********
+2022-06-24 03:34:30 INFO  pageObjects.LoginPage:64 - Entered Email : battecharudatt@gmail.com
+2022-06-24 03:34:30 INFO  pageObjects.LoginPage:68 - Entered Password : Test@123
+2022-06-24 03:34:30 INFO  pageObjects.LoginPage:75 - Clicked on the Sign in button
+2022-06-24 03:34:36 INFO  pageObjects.CalenderPage:140 - Clicked on the calenders button
+2022-06-24 03:34:37 INFO  pageObjects.CalenderPage:144 - Clicked on the calenders settings button
+2022-06-24 03:34:39 INFO  pageObjects.CalenderPage:157 - Clicked on add button....
+2022-06-24 03:34:46 INFO  pageObjects.CalenderPage:178 - Clicked on save and continue button
+2022-06-24 03:34:47 INFO  pageObjects.CalenderPage:184 - Clicked on save and continue button
+2022-06-24 03:34:51 INFO  pageObjects.CalenderPage:192 - Clicked on complete button
+2022-06-24 03:34:51 INFO  pageObjects.CalenderPage:195 - Calender is added successfully
+2022-06-24 03:34:54 INFO  helperClass.BrowserHelper:57 - 
+2022-06-24 03:34:54 INFO  helperClass.BrowserHelper:64 - Window Ids: 2
+2022-06-24 03:34:54 INFO  helperClass.BrowserHelper:69 - 1
+2022-06-24 03:34:59 INFO  pageObjects.CalenderPage:292 - 12:00 AM
+2022-06-24 03:34:59 INFO  pageObjects.CalenderPage:292 - 12:30 AM
+2022-06-24 03:34:59 INFO  pageObjects.CalenderPage:292 - 01:00 AM
+2022-06-24 03:35:04 INFO  helperClass.CommonActions:290 - PASS :User is able to book a new appointment
+2022-06-24 03:35:07 INFO  testcases.CalenderPageTest:70 - *********** Starting test case execution : Verify wheather add appointment using optimize for availability  **********
+2022-06-24 03:35:08 INFO  pageObjects.LoginPage:64 - Entered Email : battecharudatt@gmail.com
+2022-06-24 03:35:08 INFO  pageObjects.LoginPage:68 - Entered Password : Test@123
+2022-06-24 03:35:08 INFO  pageObjects.LoginPage:75 - Clicked on the Sign in button
+2022-06-24 03:35:16 INFO  pageObjects.CalenderPage:204 - Clicked on the calenders button
+2022-06-24 03:35:16 INFO  pageObjects.CalenderPage:208 - Clicked on the calenders settings button
+2022-06-24 03:35:19 INFO  pageObjects.CalenderPage:221 - Clicked on add button....
+2022-06-24 03:35:19 INFO  pageObjects.CalenderPage:222 - Clicked on add button....
